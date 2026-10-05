@@ -16,3 +16,6 @@ print(rpi(2))
 def fourpi():
     return 4 * np.pi
 
+
+def fivepi():
+    return 5 * np.pi
