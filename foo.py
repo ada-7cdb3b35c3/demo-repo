@@ -12,3 +12,7 @@ def threepi():
     return 3 * np.pi
 
 print(rpi(2))
+
+def fourpi():
+    return 4 * np.pi
+
