@@ -11,3 +11,4 @@ def twopi():
 def threepi():
     return 3 * np.pi
 
+print(rpi(2))
